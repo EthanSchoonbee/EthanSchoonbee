@@ -74,7 +74,7 @@ const languages = {
 ## 💡 Featured Projects
 <div align="center">
   
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanSchoonbee&repo=REPOSITORY_NAME&theme=vue)](https://github.com/EthanSchoonbee/REPOSITORY_NAME)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=EthanSchoonbee&repo=portfolio_website&theme=vue)](https://github.com/EthanSchoonbee/REPOSITORY_NAME)
   
 </div>
 
