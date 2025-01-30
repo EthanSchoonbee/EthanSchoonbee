@@ -78,7 +78,5 @@
 <div align="center">
   
 ### "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-![Profile Views](https://visitcount.itsvg.in/api?id=EthanSchoonbee&icon=5&color=5)
   
 </div>
