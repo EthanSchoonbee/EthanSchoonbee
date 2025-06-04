@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-- Junior Software Engineer at Entelect
+- 🏢 Junior Software Engineer at Entelect
 - 👨🏻‍💻 Graduate Software Developer passionate about creating impactful solutions
 - 👨🏻‍🎓 Bachelor's in Computer Science
 - 🌱 Currently working on multiple exciting projects
