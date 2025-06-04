@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EthanSchoonbee)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ethanschoonbee_)
 
-### Graduate Software Developer | Problem Solver | Tech Enthusiast
+### Junior Software Engineer - Entelect
 </div>
 
 &nbsp; 
@@ -12,8 +12,7 @@
 ---
 
 ## 🚀 About Me
-- 🏢 Junior Software Engineer at Entelect
-- 👨🏻‍💻 Graduate Software Developer passionate about creating impactful solutions
+- 👨🏻‍💻 Junior Software Engineer at Entelect
 - 👨🏻‍🎓 Bachelor's in Computer Science
 - 🌱 Currently working on multiple exciting projects
 - 💡 Always learning and exploring new technologies
