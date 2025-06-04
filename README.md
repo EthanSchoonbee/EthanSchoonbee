@@ -12,6 +12,7 @@
 ---
 
 ## 🚀 About Me
+- Junior Software Engineer at Entelect
 - 👨🏻‍💻 Graduate Software Developer passionate about creating impactful solutions
 - 👨🏻‍🎓 Bachelor's in Computer Science
 - 🌱 Currently working on multiple exciting projects
@@ -30,8 +31,8 @@
 ---
 
 ## 🎯 Current Focus
-- 🔭 Working on: [Your Current Project]
-- 📚 Learning: [Technology you're currently learning]
+- 🔭 Working on: MTN Fintech.
+- 📚 Learning: Node.js and Azure Cloud.
 - 👯 Looking to collaborate on: Open source projects
 - 💬 Ask me about: .NET, React, Cloud Architecture
 
