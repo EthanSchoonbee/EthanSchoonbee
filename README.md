@@ -77,7 +77,7 @@
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/EthanSchoonbee)
 - 🐦 [X/Twitter](https://x.com/ethanschoonbee_)
-- 🌐 [Website](www.schoonbee.net)
+- 🌐 [Website](http://www.schoonbee.net)
 
 ---
 <div align="center">
