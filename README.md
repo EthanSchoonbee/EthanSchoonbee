@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hello, I'm Ethan! 👋
-[![Website](https://img.shields.io/badge/Portfolio%20Website-FF9500)](https://www.schoonbee.net)
+[![Website](https://img.shields.io/badge/Portfolio-FF9500?logo=terminal&logoColor=000000)](https://www.schoonbee.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EthanSchoonbee)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ethanschoonbee_)
 
